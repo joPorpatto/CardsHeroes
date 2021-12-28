@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/CardsHeroes/static/css/main.aa4d8af8.chunk.css",
+    "main.js": "/CardsHeroes/static/js/main.90ee49fd.chunk.js",
+    "main.js.map": "/CardsHeroes/static/js/main.90ee49fd.chunk.js.map",
+    "runtime-main.js": "/CardsHeroes/static/js/runtime-main.60ef9224.js",
+    "runtime-main.js.map": "/CardsHeroes/static/js/runtime-main.60ef9224.js.map",
+    "static/js/2.e6c83b55.chunk.js": "/CardsHeroes/static/js/2.e6c83b55.chunk.js",
+    "static/js/2.e6c83b55.chunk.js.map": "/CardsHeroes/static/js/2.e6c83b55.chunk.js.map",
+    "index.html": "/CardsHeroes/index.html",
+    "static/css/main.aa4d8af8.chunk.css.map": "/CardsHeroes/static/css/main.aa4d8af8.chunk.css.map",
+    "static/js/2.e6c83b55.chunk.js.LICENSE.txt": "/CardsHeroes/static/js/2.e6c83b55.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60ef9224.js",
+    "static/js/2.e6c83b55.chunk.js",
+    "static/css/main.aa4d8af8.chunk.css",
+    "static/js/main.90ee49fd.chunk.js"
+  ]
+}
