@@ -7,8 +7,9 @@ Los promedios estan representados en órden descendentes.
 * React
 * Redux 
 * Thunk
+* Firebase
 * Formik 
-* Routers
+* React Routers
 * Bootstrap
 
 Ver demo en: https://joporpatto.github.io/CardsHeroes/
