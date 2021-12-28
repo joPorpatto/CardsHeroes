@@ -12,7 +12,9 @@ Los promedios estan representados en órden descendentes.
 * Bootstrap
 
 Ver demo en: https://joporpatto.github.io/CardsHeroes/
+
 Usuario:  "prueba@cardheroes.com"
+
 Contraseña: "123456" 
 
 Api: https://superheroapi.com/
